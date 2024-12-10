@@ -13,7 +13,7 @@ module.exports = {
   "WELCOME": false,
   "ANTI_BAD": false,
   "ANTI_BOT": true,
-  "ANTI_LINK"alse,
+  "ANTI_LINK":false,
   "ANTI_CALL": false,
   "ANTI_DELETE": true,
   "ALLWAYS_ONLINE": false,
